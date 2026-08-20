@@ -1,0 +1,13 @@
+fecha,producto,categoria,unidades,precio_unitario,region
+2026-01-05,Café,Alimentos,12,85,Norte
+2026-01-08,Té,Alimentos,18,60,Centro
+2026-01-12,Taza,Hogar,7,120,Sur
+2026-01-18,Café,Alimentos,20,85,Centro
+2026-02-03,Té,Alimentos,15,60,Norte
+2026-02-10,Taza,Hogar,9,120,Centro
+2026-02-14,Termo,Hogar,5,250,Sur
+2026-02-21,Café,Alimentos,25,85,Sur
+2026-03-02,Té,Alimentos,22,60,Centro
+2026-03-11,Termo,Hogar,8,250,Norte
+2026-03-19,Café,Alimentos,17,85,Centro
+2026-03-25,Taza,Hogar,11,120,Sur
