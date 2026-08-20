@@ -1,6 +1,6 @@
 # Curso de análisis de datos
 
-Materiales y notebooks para una clase de análisis de datos con Python y Jupyter.
+Materiales y notebooks para la clase de análisis de datos con Python y Jupyter.
 
 ## Contenido
 
@@ -10,11 +10,6 @@ Materiales y notebooks para una clase de análisis de datos con Python y Jupyter
 - [Ejercicios](ejercicios/README.md)
 - [Dependencias](requirements.txt)
 
-## Abrir en Google Colab
-
-Puedes abrir un notebook de este repositorio en Colab con una URL como esta:
-
-`https://colab.research.google.com/github/yimpoX/curso-analisis-datos/blob/main/notebooks/00_bienvenida.ipynb`
 
 ## Ejecutar localmente
 
@@ -29,7 +24,7 @@ jupyter lab
 
 En Windows, activa el entorno con `.venv\Scripts\activate`.
 
-## Flujo sugerido para estudiantes
+## Flujo de trabajo para estudiantes
 
 1. Hacer fork o una copia del repositorio.
 2. Abrir el notebook de la semana en Colab o JupyterLab.
