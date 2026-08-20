@@ -27,9 +27,9 @@ En Windows, activa el entorno con `.venv\Scripts\activate`.
 ## Flujo de trabajo para estudiantes
 
 1. Hacer fork o una copia del repositorio.
-2. Abrir el notebook de la semana en Colab o JupyterLab.
+2. Abrir el notebook en JupyterLab.
 3. Resolver las celdas marcadas como ejercicio.
 4. Escribir las conclusiones en Markdown.
-5. Entregar el enlace al repositorio o el archivo `.ipynb`.
+5. Entregar el enlace o el archivo `.ipynb` por Teams.
 
 No subas contraseñas, tokens ni datos personales al repositorio.
