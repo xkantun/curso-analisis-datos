@@ -1,2 +1,5 @@
-# curso-analisis-datos
-Materiales y notebooks para una clase de análisis de datos con Python y Jupyter.
+# Soluciones
+
+Este directorio está reservado para soluciones del instructor.
+
+No publiques aquí las respuestas si los estudiantes tienen acceso al repositorio.
